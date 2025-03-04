@@ -21,7 +21,7 @@ Finally, after hitting the target, the score will be displayed on the score boar
 
 
 
+### 🔗 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/md-zahin-abrar-badruddoza-9022a421a)  
+[![GitHub](https://img.shields.io/badge/GitHub-Visit-lightgrey)](https://github.com/ZahinAbrarBdoza)  
 
-
-
-![archery](https://github.com/risatrahaman/Archery-Championship/assets/91422611/b1a06312-5e34-4d17-92a6-bdcfd51e28d4)
