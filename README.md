@@ -16,8 +16,6 @@ Any input outside the range results in a missed shot.
 
 Finally, after hitting the target, the score will be displayed on the score board.
 
-**Output:**
-
 
 
 
